@@ -4,6 +4,6 @@
 cat << EOF
 
 default_process_types:
-  web: run.sh
+  web: make run
 EOF
 
